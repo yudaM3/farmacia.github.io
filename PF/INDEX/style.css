@@ -1,0 +1,107 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.seccion1{
+    background: url(https://statics-diariomedico.uecdn.es/cms/styles/landscape_xl/azblob/2023-04/farmacia-Sanchis%2C-de-Ribarroja-%28Valencia%29.jpg.webp?itok=mNF7MB8R);
+    background-position: bottom center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.seccion2{
+    background: url(https://www.kordata.mx/wp-content/uploads/2022/07/inside-farmacia.jpg);
+    background-position: bottom center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.seccion3{
+    background: url(https://img.europapress.es/fotoweb/fotonoticia_20220418083449_1200.jpg);
+    background-position: bottom center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.seccion4{
+    background: url(https://s3-us-west-2.amazonaws.com/wp-mpro-blog/wp-content/uploads/2021/07/05160139/Aliado-Farmacias.jpg);
+    background-position: bottom center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+section{
+    width: 100%;
+    height: 100vh;
+}
+
+.contain{
+    width: 100%;
+    height: 150px;
+    background: #fff;
+    text-align: center;
+}
+
+.contain h2{
+    margin-top: 20px;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* line-height: 250px; */
+}
+
+.contain p{
+    margin-top: 20px;
+    font-size: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: black;
+    font-size: small;
+}
+
+footer{
+
+    width: 100%;
+    height: 40px;
+    background: rgb(158, 156, 156);
+    font-size: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+.titulo1{
+    text-align: center;
+    padding: 450px;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 80px;
+    text-shadow: 3px 3px 0px #222;
+}
+
+.titulo2{
+    text-align: center;
+    padding: 350px;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 80px;
+    text-shadow: 3px 3px 0px #222;
+}
+
+.titulo3{
+    text-align: left;
+    padding: 350px 550px;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 80px;
+    text-shadow: 3px 3px 0px #222;
+}
+
+.titulo4{
+    text-align: center;
+    padding: 20%;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 80px;
+    text-shadow: 3px 3px 0px #222;
+}
